@@ -6,6 +6,13 @@ Extended version of the paper: [https://arxiv.org/pdf/2309.10147.pdf](https://ar
 
 We make our code and artifacts available in [artifacts](./artifacts/).
 
+
+## struction
+```
+MYfine-tuning-cw.ipynb #我自己的微调notebook，这里将增强与训练隔开，增强轨迹用npz重新保存，以帮助提升训练速度（CPU与GPU数据copy）
+```
+
+
 ## References
 
 To cite this paper and artifacts, please use the following:
